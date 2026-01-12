@@ -1,0 +1,11 @@
+<li>
+  <a href="{{ .Permalink }}" class="section-link">{{ .Title }}</a>
+  <ul>
+    {{ range .Sections }}
+    {{ partial "section-tree.html" . }}
+    {{ end }}
+    {{ range .RegularPages }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+</li>

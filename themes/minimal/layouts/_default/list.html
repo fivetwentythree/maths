@@ -1,11 +1,11 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
-<ul class="post-list">
-  {{ range .Pages }}
-  <li>
-    <a href="{{ .Permalink }}">{{ .Title }}</a>
-    {{ with .Date }}{{ if not .IsZero }}<time>{{ .Format "Jan 2, 2006" }}</time>{{ end }}{{ end }}
-  </li>
+<ul class="section-tree">
+  {{ range .Sections }}
+  {{ partial "section-tree.html" . }}
+  {{ end }}
+  {{ range .RegularPages }}
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
   {{ end }}
 </ul>
 {{ end }}

@@ -113,6 +113,29 @@ article time {
   padding: 0.5rem 0;
 }
 
+.content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+
+.content th,
+.content td {
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--border);
+  text-align: left;
+}
+
+.content th {
+  background: #f0f0f0;
+  font-weight: 600;
+}
+
+.content tr:hover {
+  background: #f9f9f9;
+}
+
 footer {
   margin-top: 4rem;
   padding-top: 1rem;
