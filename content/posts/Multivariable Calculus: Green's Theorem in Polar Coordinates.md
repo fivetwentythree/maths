@@ -12,8 +12,8 @@ draft: false
 *   Expressing a Line Integral Along a Path as a Double Integral Using Green's Theorem
 *   Evaluating a Line Integral Using Green's Theorem
 *   **Prerequisites**
-    *   [Calculating the Displacement of a Particle Using Integration]({{< ref "/posts/Calculating the Displacement of a Particle Using Integration" >}})
-    *   Introduction to Green's Theorem
+    *   [Introduction to Green's Theorem]({{< ref "content/posts/Calculating the Displacement of a Particle Using Integration.md" >}})
+    *   
 
 ---
 
