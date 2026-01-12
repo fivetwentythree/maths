@@ -15,5 +15,5 @@ theme = "minimal"
       unsafe = true
 
 [params]
-  description = "A minimal site for maths notes"
+  description = "Some of my notes"
   math = true
