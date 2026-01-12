@@ -1,7 +1,7 @@
 ---
 title: "Multivariable Calculus: Green's Theorem in Polar Coordinates"
 date: 2026-01-12T21:24:23+11:00
-draft: true
+draft: false
 ---
 
 # Multivariable Calculus: Green's Theorem in Polar Coordinates
