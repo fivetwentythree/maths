@@ -1,6 +1,5 @@
 ---
 title: "Calculating the Displacement of a Particle Using Integration"
-date: 2026-01-12T21:24:23+11:00
 ---
 ## Calculating the Displacement of a Particle Using Integration
 

@@ -4,7 +4,7 @@
     {{ range first 10 .Site.RegularPages }}
     <li>
       <a href="{{ .Permalink }}">{{ .Title }}</a>
-      <time>{{ .Date.Format "Jan 2, 2006" }}</time>
+      {{ with .Date }}{{ if not .IsZero }}<time>{{ .Format "Jan 2, 2006" }}</time>{{ end }}{{ end }}
     </li>
     {{ end }}
   </ul>
