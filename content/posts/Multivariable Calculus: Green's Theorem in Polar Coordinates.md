@@ -1,18 +1,5 @@
 ---
 title: "Multivariable Calculus: Green's Theorem in Polar Coordinates"
-date: 2026-01-12T21:24:23+11:00
-draft: false
----
-
-# Multivariable Calculus: Green's Theorem in Polar Coordinates
-
-## Navigation
-*   **Introduction**
-*   Expressing a Line Integral Along a Circular Path as a Double Integral Using Green's Theorem
-*   Expressing a Line Integral Along a Path as a Double Integral Using Green's Theorem
-*   Evaluating a Line Integral Using Green's Theorem
-*   **Prerequisites**
-
 ---
 
 ## Introduction
