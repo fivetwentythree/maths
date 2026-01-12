@@ -1,7 +1,6 @@
 ---
 title: "Calculating the Displacement of a Particle Using Integration"
 ---
-## Calculating the Displacement of a Particle Using Integration
 
 ### Introduction
 
