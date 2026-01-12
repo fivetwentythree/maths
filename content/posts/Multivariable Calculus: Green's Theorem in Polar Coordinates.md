@@ -12,7 +12,7 @@ draft: false
 *   Expressing a Line Integral Along a Path as a Double Integral Using Green's Theorem
 *   Evaluating a Line Integral Using Green's Theorem
 *   **Prerequisites**
-    *   Double Integrals in Plane Polar Coordinates
+    *   [Double Integrals in Plane Polar Coordinates](/content/posts/Calculating%20the%20Displacement%20of%20a%20Particle%20Using%20Integration.md)
     *   Introduction to Green's Theorem
 
 ---
