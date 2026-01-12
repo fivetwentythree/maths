@@ -1,0 +1,19 @@
+baseURL = "https://fivetwentythree.github.io/maths/"
+languageCode = "en-us"
+title = "Maths Notes"
+theme = "minimal"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)'], ['$', '$']]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  description = "A minimal site for maths notes"
+  math = true

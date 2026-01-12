@@ -1,0 +1,7 @@
+name = "Minimal"
+license = "MIT"
+licenselink = "https://opensource.org/licenses/MIT"
+description = "A minimal Hugo theme with LaTeX support"
+
+[author]
+  name = ""
